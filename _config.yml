@@ -12,7 +12,7 @@ logo: /imgs/silab_logo.png
 markdown: kramdown
 
 # What to include
-include:
-  - index.md
-  - proton_irrad_site_Bonn.md
-  - belle_2.md
+#include:
+#  - index.md
+#  - proton_irrad_site_Bonn.md
+#  - belle_2.md

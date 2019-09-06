@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Proton Irradiation Site for Silicon Detectors at Bonn University
 
 ***

@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # BELLE 2 Pixeldetector
 
 ***

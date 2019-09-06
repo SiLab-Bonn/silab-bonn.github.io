@@ -8,6 +8,11 @@ description: Silizium Labor Bonn (SiLab) is a detector physics group, located at
 # Logo to be displayed on main page
 logo: /imgs/silab_logo.png
 
-# Get math to work
+# Better markdown app
 markdown: kramdown
-mathjax: true
+
+# What to include
+include:
+  - index.md
+  - proton_irrad_site_Bonn.md
+  - belle_2.md

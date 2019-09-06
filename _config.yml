@@ -6,8 +6,8 @@ title: Silizium Labor Bonn Thesis Topics
 description: Silizium Labor Bonn (SiLab) is a detector physics group, located at the University of Bonn, Germany.
 
 # Logo to be displayed on main page
-logo: imgs/silab_logo.png
+logo: /imgs/silab_logo.png
 
 # What we want to exclude from the page
-exclude:
-  - README.md
+#exclude:
+#  - README.md

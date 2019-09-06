@@ -1,3 +1,13 @@
+# Set theme for page; see https://pages.github.com/themes/ for list of supported themes
 theme: jekyll-theme-minimal
-title: Silizium Labor Bonn (SiLab) Thesis Topics
-description: SiLab is a detector physics group, located at the University of Bonn, Germany
+
+# Title and description of page
+title: Silizium Labor Bonn Thesis Topics
+description: Silizium Labor Bonn (SiLab) is a detector physics group, located at the University of Bonn, Germany.
+
+# Logo to be displayed on main page
+logo: imgs/silab_logo.png
+
+# What we want to exclude from the page
+exclude:
+  - README.md

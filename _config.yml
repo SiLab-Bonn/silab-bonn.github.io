@@ -8,6 +8,6 @@ description: Silizium Labor Bonn (SiLab) is a detector physics group, located at
 # Logo to be displayed on main page
 logo: /imgs/silab_logo.png
 
-# What we want to exclude from the page
-#exclude:
-#  - README.md
+# Get math to work
+markdown: kramdown
+mathjax: true

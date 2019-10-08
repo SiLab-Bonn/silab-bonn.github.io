@@ -7,5 +7,5 @@ If you want to contribute, feel free to add a `my_topic.md` Markdown-file to the
 {% include_relativ topics/my_topic.md %}
 ```
 
-The resulting website is hosted under <https://silab-bonn.github.io> and also available under <silab.uni-bonn.de>. You can also refer students to this site.
+The resulting website is hosted under <https://silab-bonn.github.io> and also available under silab.uni-bonn.de . You can also refer students to this site.
 

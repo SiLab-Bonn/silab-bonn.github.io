@@ -8,13 +8,6 @@ A newly-installed proton irradiation site at the [Bonn isochronous cyclotron](ht
 
 ***
 
-### Topic: Development of a Beam Loss Monitor (BLM) for Online Beam Loss- and Profile Measurements
-
-- Type: Bachelor
-- Location: SiLab, HISKP
-- Contact: [Pascal Wolf](mailto:wolf@physik.uni-bonn.de)
-- Description: The primary proton beam, provided by the Bonn isochronous cyclotron, is extracted through a so-called _Lenard_ window to the irradiation site. Shortly before extraction, the absolute beam current, which is the crucial quantity for damage studies, is measured via a secondary electron monitor (SEM). In order to detect beam loss between SEM and extraction due to e.g. misalignment, a dedicated beam loss monitor (BLM) is needed. The BLM is planned as a custom _Lenard_ window with integrated _Faraday_ cup in the form of a graphite ring. The aim is to construct the BLM in a computer-aided design (CAD) program, test it's functionality in a test beam and integrate its data into an existing data monitor. Additionally, the BLM can be used to measure the beam profile at extraction.
-
 ### Topic: Development of an Online Radiation Damage Monitor Using Commercial Silicon PIN-diodes
 
 - Type: Bachelor

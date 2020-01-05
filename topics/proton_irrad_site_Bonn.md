@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 last_modified_at: 2019-10-25 8:30:00 +0000
 ---
 

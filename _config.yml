@@ -11,6 +11,6 @@ logo: /imgs/silab_logo.png
 # Better markdown app
 markdown: kramdown
 
-# Try adding last modified date
-plugins:
-  - jekyll-last-modified-at
+# DOESN'T WORK yet with gh-pages
+#plugins:
+#  - jekyll-last-modified-at

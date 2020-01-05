@@ -11,8 +11,6 @@ logo: /imgs/silab_logo.png
 # Better markdown app
 markdown: kramdown
 
-# What to include
-#include:
-#  - index.md
-#  - proton_irrad_site_Bonn.md
-#  - belle_2.md
+# Try adding last modified date
+plugins:
+  - jekyll-last-modified-at

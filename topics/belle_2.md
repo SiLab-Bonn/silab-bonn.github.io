@@ -10,7 +10,7 @@ The [**BELLE 2**](https://www.belle2.org/) particle collision experiment in Japa
 
 ### Topic: Characterization of Detector Modules for the PXD 2 Upgrade
 
-(_Last modified on_: {% 2019-10-10 00:00:00 +0000 | date: '%B %d, %Y' %})
+(_Last modified on_: {{ "2019-10-10 00:00:00 +0000" | date: '%B %d, %Y' }})
 
 - Type: any
 - Location: SiLab
@@ -19,7 +19,7 @@ The [**BELLE 2**](https://www.belle2.org/) particle collision experiment in Japa
 
 ### Topic: Investigation of Radiation Hardness and Radiation Burst Events of PXD ASICs and Sensors
 
-(_Last modified on_: {% 2019-10-10 00:00:00 +0000 | date: '%B %d, %Y' %})
+(_Last modified on_: {{ "2019-10-10 00:00:00 +0000" | date: '%B %d, %Y' }})
 - Type: any
 - Location: SiLab
 - Contact: [Botho Paschen](mailto:paschen@physik.uni-bonn.de)

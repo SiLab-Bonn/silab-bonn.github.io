@@ -10,7 +10,7 @@ A newly-installed proton irradiation site at the [Bonn isochronous cyclotron](ht
 
 ### Topic: Development of an Online Radiation Damage Monitor Using Commercial Silicon PIN-diodes
 
-(_Last modified on_: {% 2019-10-03 00:00:00 +0000 | date: '%B %d, %Y' %})
+(_Last modified on_: {{ "2019-10-03 00:00:00 +0000" | date: '%B %d, %Y' }})
 
 - Type: Bachelor
 - Location: SiLab, HISKP

@@ -1,8 +1,12 @@
 # Sensor Development
 From the daily using digital camera, medical X-ray imaging device to the particle tracker of the high energy physics experiments, silicon pixel sensors efficiently convert photons and charged particles to electric signal. Like all semiconductor devices, the development of pixel sensors follows the cyclic procedure of: design &rarr; produce &rarr; test &rarr; optimization, aiming to optimum perfomances such as higher spatial resolution, lower leakage, higher efficiency. Especially in the high energy physics, radiation tolerant sensors need to be developed to sustain severe radiation damage.
 
+***
+
 ## Device Simulation and Optimization
 Numerical simulation offers an efficiency way for testing and optimzing pixel sensors. TCAD ( **T**echnology **C**omputer **A**ided **D**esign) is a powerful software for such purposes and widely used in the semiconductor industry. You will first need an insight on the general semiconductor device manufacturing processes and construct the sensor with the software. The device simulation offers you a chance to proceed experiments, while exploring enormous amount of physical models and discovering the physics behind the data. 
+
+***
 
 ### Topic: Guard Rings
 

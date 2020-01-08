@@ -8,6 +8,8 @@ From daily use digital cameras, medical X-ray imaging devices to particle tracki
 
 ## Device Simulation and Optimization
 
+![TCAD simulation and potential gradient of monolithic pixel](/imgs/sim_topics.png)
+
 Numerical simulation offers an efficient way for testing and optimzing pixel sensors. TCAD ( **T**echnology **C**omputer **A**ided **D**esign) is a powerful software for such purposes and widely-used in the semiconductor industry. You will first need an insight on the general semiconductor device manufacturing processes and construct the sensor with the software. The device simulation offers you a chance to proceed experiments, while exploring enormous amount of physical models and discovering the physics behind the data. 
 
 ***

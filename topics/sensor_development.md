@@ -12,7 +12,7 @@
 - Tasks: Simulate the guard rings of test structures, find out and discuss the impacts of the design and the operation conditions on related sensor performances.  Find out or design an optimum guard ring geometry.
 - Possible extension: include the radiation damage and discuss the impacts.
 
-## Topic: Electrical Characterization and Operation of SiC Pad Diodes as Particle Detector
+## Topic: Electrical Characterization and Operation of SiC Pad Diodes as Particle Detectors
 
 (_Last modified on_: {{ "2022-04-06 00:10:00 +0000" | date: '%B %d, %Y' }})
 

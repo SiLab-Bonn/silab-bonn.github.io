@@ -1,17 +1,5 @@
 ***
 
-## Topic: Guard Rings
-
-(_Last modified on_: {{ "2022-04-07 13:00:00 +0000" | date: '%B %d, %Y' }})
-
-- Type: Master
-- Location: SiLab
-- Contact: [Sinuo Zhang](mailto:s.zhang@physik.uni-bonn.de)
-- Description: Guard rings, located outside of the sensitive area of the silicon pixel detector, surround the pixel matrix improving breakdown voltage and reducing leakage current. 
-- Task: Simulate and optimize the guard rings designs, find out and discuss the impacts of the design and the operation conditions on related sensor performances.  Find out or design an optimum guard ring geometry.
-- Tool: [TCAD](https://www.synopsys.com/silicon/tcad.html)
-- Possible extension: include the radiation damage and discuss the impacts.
-
 # Topic: Electrical Characterization and Operation of SiC Pad Diodes as Particle Detectors
 
 (_Last modified on_: {{ "2022-04-07 13:00:00 +0000" | date: '%B %d, %Y' }})

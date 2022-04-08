@@ -23,3 +23,5 @@ The following lists available thesis topics at [Silizium Labor Bonn](https://git
 {% include_relative topics/irradiation.md %}
 
 {% include_relative intros/testbeam.md %}
+
+{% include_relative topics/testbeam.md %}

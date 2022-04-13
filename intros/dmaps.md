@@ -2,7 +2,7 @@
 
 ***
 
-![TJ_Monopix1 pixel detector](/imgs/tjmonopix1.jpg)
+![TJ_Monopix1 pixel detector](/imgs/tjmonopix2.jpg)
 
 Monolithic pixel detectors are a rather novel approach that combine the sensor (where charges are created) and the readout part (digitization) on the same wafer.
 This approach makes costly production steps like combining two different chips for sensor and readout redundant.

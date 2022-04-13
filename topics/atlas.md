@@ -2,7 +2,7 @@
 
 ### Topic: Characterization of ATLAS Pixel Readout Chip 
 
-(_Last modified on_: {{ "2019-10-10 00:00:00 +0000" | date: '%B %d, %Y' }})
+(_Last modified on_: {{ "2022-04-13 00:00:00 +0000" | date: '%B %d, %Y' }})
 
 - Type: Bachelor/Master
 - Location: SiLab
@@ -11,7 +11,7 @@
 
 ### Topic: Systematic Analysis of Wafer-probing Data
 
-(_Last modified on_: {{ "2019-10-10 00:00:00 +0000" | date: '%B %d, %Y' }})
+(_Last modified on_: {{ "2022-04-13 00:00:00 +0000" | date: '%B %d, %Y' }})
 
 - Type: Bachelor/Master
 - Location: SiLab

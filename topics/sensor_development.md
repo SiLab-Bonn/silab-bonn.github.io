@@ -1,6 +1,6 @@
 ***
 
-# Topic: Electrical Characterization and Operation of SiC Pad Diodes as Particle Detectors
+### Topic: Electrical Characterization and Operation of SiC Pad Diodes as Particle Detectors
 
 (_Last modified on_: {{ "2022-04-07 13:00:00 +0000" | date: '%B %d, %Y' }})
 

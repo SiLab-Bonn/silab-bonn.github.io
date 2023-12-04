@@ -18,10 +18,6 @@ The following lists available thesis topics at [Silizium Labor Bonn](https://git
 
 {% include_relative topics/sensor_development.md %}
 
-{% include_relative intros/dmaps.md %}
-
-{% include_relative topics/dmaps.md %}
-
 {% include_relative intros/testbeam.md %}
 
 {% include_relative topics/testbeam.md %}
